@@ -63,7 +63,7 @@ object calculateBasic {
         if (currentTv.last().equals('×')) return true
         if (currentTv.last().equals('-')) return true
         if (currentTv.last().equals('+')) return true
-
+        //test
         return false
     }
 }
